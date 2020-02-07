@@ -1,0 +1,29 @@
+{
+  "name": "backend-4",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GuRuGu-Iterations/Backend-4.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GuRuGu-Iterations/Backend-4/issues"
+  },
+  "homepage": "https://github.com/GuRuGu-Iterations/Backend-4#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.8.11"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.2",
+    "morgan": "^1.9.1",
+    "dotenv": "^8.2.0"
+  }
+}
